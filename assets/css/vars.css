@@ -1,0 +1,35 @@
+/* Variables
+/* ---------------------------------------------------------- */
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,500;0,700;1,500;1,700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root {
+
+    /* Colours */
+    --color-primary: var(--ghost-accent-color, #3eb0ef);
+    --color-base: #131313;
+    --color-border: #ddd;
+    --color-bg: #f8f8f8;
+
+    /* Fonts */
+    --font-sans-serif: 'IBM Plex Sans', sans-serif;
+    --font-serif: 'PT Serif', Georgia, Times, serif;
+    --font-mono: Inconsolata, Menlo, Courier, monospace;
+    --font-light: 100;
+    --font-normal: 400;
+    --font-bold: 700;
+    --font-heavy: 800;
+
+    /* Breakpoints */
+    --xlarge: 1680px;
+    --large: 1280px;
+    --medium: 980px;
+    --small: 740px;
+    --xsmall: 480px;
+
+    /* Sizes */
+    --height: 4rem;
+    --margin: 2rem;
+    --radius: 0.5rem;
+
+}
