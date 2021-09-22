@@ -203,6 +203,12 @@ body {
     letter-spacing: 1px;
 }
 
+@media (max-width: 400px) {
+    .site-head-logo {
+        font-size: 1.8rem;
+    }
+}
+
 .site-head-logo:hover {
     text-decoration: none;
 }

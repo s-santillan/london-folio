@@ -285,3 +285,9 @@ figcaption {
     line-height: 1.5em;
     font-style: italic;
 }
+
+.folio-yt-embed {
+    display: flex;
+    margin: 0 auto;
+    width: 100%;
+}
